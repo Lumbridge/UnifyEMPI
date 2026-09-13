@@ -17,10 +17,10 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.41.4",
-    "astro": "^7.1.4",
+    "astro": "^7.3.2",
     "astro-mermaid": "^2.1.0",
-    "mermaid": "^11.16.0",
-    "sharp": "^0.35.3",
+    "mermaid": "^11.17.2",
+    "sharp": "0.35.4",
     "starlight-links-validator": "^0.25.2"
   }
 }
