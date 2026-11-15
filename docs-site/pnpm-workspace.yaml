@@ -2,4 +2,6 @@ allowBuilds:
   esbuild: true
   sharp: true
 overrides:
-  sharp: 0.35.4
+  sharp: 0.35.5
+  # Mermaid 11 requests KaTeX 0.16; 0.18.2 fixes GHSA-238p-pmpm-9mq7.
+  katex: 0.18.2
